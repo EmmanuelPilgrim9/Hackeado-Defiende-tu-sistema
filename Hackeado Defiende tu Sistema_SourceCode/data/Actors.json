@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Hacker ético","characterIndex":0,"characterName":"","classId":5,"equips":[],"faceIndex":0,"faceName":"Hacker ético","traits":[],"initialLevel":1,"maxLevel":99,"name":"HACKER","nickname":"Hacker ético","note":"","profile":""},
+{"id":2,"battlerName":"Hacker mujer","characterIndex":0,"characterName":"","classId":5,"equips":[],"faceIndex":0,"faceName":"Hacker Mujer","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hacker Mujer","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Analista hombre","characterIndex":0,"characterName":"","classId":6,"equips":[],"faceIndex":0,"faceName":"Analista Hombre","traits":[],"initialLevel":1,"maxLevel":99,"name":"Analista Hombre","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Analista Mujer","characterIndex":0,"characterName":"","classId":6,"equips":[],"faceIndex":0,"faceName":"Analista Mujer","traits":[],"initialLevel":1,"maxLevel":99,"name":"Analista Mujer","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
